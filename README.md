@@ -1,4 +1,4 @@
-# Kajal Tupe - Personal Portfolio
+# Kajal Tupe - Personal Portfolio(https://kajaltupe-portfolio.netlify.app/)
 
 ## Overview
 This is my personal portfolio website designed to showcase my professional profile, technical skills, projects, education, and achievements. The portfolio is fully responsive, visually appealing, and incorporates modern web design trends.
